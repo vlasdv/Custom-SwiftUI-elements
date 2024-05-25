@@ -11,6 +11,7 @@
 		6707F1822C01B6A800F1B957 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6707F1812C01B6A800F1B957 /* ContentView.swift */; };
 		6707F1842C01B6AA00F1B957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6707F1832C01B6AA00F1B957 /* Assets.xcassets */; };
 		6707F1872C01B6AA00F1B957 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6707F1862C01B6AA00F1B957 /* Preview Assets.xcassets */; };
+		6707F18E2C01B77600F1B957 /* BulkedTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6707F18D2C01B77600F1B957 /* BulkedTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6707F1812C01B6A800F1B957 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6707F1832C01B6AA00F1B957 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6707F1862C01B6AA00F1B957 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6707F18D2C01B77600F1B957 /* BulkedTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulkedTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6707F17F2C01B6A800F1B957 /* Custom_SwiftUI_elementsApp.swift */,
 				6707F1812C01B6A800F1B957 /* ContentView.swift */,
+				6707F18D2C01B77600F1B957 /* BulkedTextField.swift */,
 				6707F1832C01B6AA00F1B957 /* Assets.xcassets */,
 				6707F1852C01B6AA00F1B957 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6707F1822C01B6A800F1B957 /* ContentView.swift in Sources */,
+				6707F18E2C01B77600F1B957 /* BulkedTextField.swift in Sources */,
 				6707F1802C01B6A800F1B957 /* Custom_SwiftUI_elementsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
